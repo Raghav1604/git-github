@@ -1,2 +1,2 @@
 # git-github
-new sample 
+this is a tuttorial purpose
